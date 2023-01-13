@@ -15,6 +15,7 @@ Página web ( não responsiva)
 
 Este projeto é uma página que conta um pouco da história de Ada Lovelence, é o Projeto final do curso eu progr{amo} - Front End #1 , do Programaria que participei como bolsista.
 
+
 # Especificações
 
 A proposta do projeto final é apresentar uma página simples, que conte um pouco da história dessa mulher extraordinária e tão importante para a tecnologia. 
@@ -29,6 +30,7 @@ A proposta do projeto final é apresentar uma página simples, que conte um pouc
 # Conclusão e Agradecimentos
 
 A página foi feita de acordo com as orientações do curso, seguindo cores e estilo fielmente.
+Curso concluido em 08/2022. Postando só agora para ter registrado.
 
 Consegui fazer o curso graças a uma bolsa cedida pelo PrograMaria. Todo
 meu agradecimento e admiração pelo trabalho maravilhoso que elas desempenham.
